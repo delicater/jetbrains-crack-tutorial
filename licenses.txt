@@ -557,7 +557,7 @@
 <body>
 <header class="tip sticky flex items-center py-6">
     <p>
-        🇷🇺 Download <a href="files/jetbra-ded4f9dc4fcb60294b21669dafa90330f2713ce4.zip" title="Download jetbra first">jetbra.zip</a> (240218), and configure as described in <strong>readme.txt</strong>! For testing purposes only, not for commercial use! <br>
+        🇷🇺 Download <a href="https://gitee.com/ye-qidong/jetbra/raw/master/jetbra.zip" title="Download jetbra first">jetbra.zip</a> (240218), and configure as described in <strong>readme.txt</strong>! For testing purposes only, not for commercial use! <br>
         <strong>🇷🇺 Please note that this is just a personal page, not an official website!</strong>
     </p>
 </header>

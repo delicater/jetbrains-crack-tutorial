@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         avnigth_activation
 // @version      2024-12-30
-// @match        https://5vim4.neoqjk.com/*
+// @match        https://g8yd0.sonkwl.com/*
 // @namespace    pwa.gfwboom.com
 // @description  爱威奶各种任务奖励领取
 // @author       delicater
